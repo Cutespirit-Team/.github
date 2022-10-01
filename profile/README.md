@@ -5,7 +5,7 @@ We are Cutespirit Team. A group of students who are struggling for Cyber Securit
 
 ###### tags:  `CyberSecurity` `Student` `Personal Info` `Team`
 
-## 🤝Our Profile | 我的個人資訊:
+## 🤝Our Profile | 我們的個人資訊:
 <a target="_blank" title="靈萌團隊YouTube" href="https://www.youtube.com/channel/UCUieRdpiGE22tbbFlcqN-rQ">
 	<img src="https://img.shields.io/static/v1?style=for-the-badge&message=YouTube&color=FF0000&logo=YouTube&logoColor=FFFFFF&label=" />
 </a>
