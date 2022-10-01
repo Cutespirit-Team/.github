@@ -1,8 +1,7 @@
 # Hi there 👋 Wellcome
-<center>We are Cutespirit Team. A group of students who are struggling for Cyber Security in Taiwan. We are a team. We are cute.</center>
-<br>
-<center>一群由台灣學生組成的團隊<br>
-共同為了未來與夢想而打拼，為台灣的資訊安全而奮鬥。</center>
+<p align="center">We are Cutespirit Team. A group of students who are struggling for Cyber Security in Taiwan. We are a team. We are cute.<br>
+一群由台灣學生組成的團隊<br>
+共同為了未來與夢想而打拼，為台灣的資訊安全而奮鬥。</p>
 
 ###### tags:  `CyberSecurity` `Student` `Personal Info` `Team`
 
