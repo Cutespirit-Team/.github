@@ -28,6 +28,13 @@ We are Cutespirit Team. A group of students who are struggling for Cyber Securit
     </a>
 </p>
 
+## <p align="center"> Bityo Tech | 幣友科技 </p>
+<p align="center">
+    <img src="https://www.bityo.tw/imgs/bityo_bg_circle.png" width="50px" style="display: block" />
+    <br />
+    目前已經合併至<a href="https://github.com/Bityo-Official">幣友科技</a>
+</p>
+
 ## <p align="center"> Visitor Count | 訪客總數 </p>
 <p align="center">
     <img src="https://count.getloli.com/get/@Cutespirit-Team?theme=rule34" />
